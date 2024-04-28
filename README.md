@@ -1,5 +1,7 @@
 # road_safety
 
+Yet another flutter project!
+
 The Road Safety App is a comprehensive solution designed to enhance safety on the roads by monitoring vehicle speed limits and providing emergency alerts. Built using Flutter and integrated with Firebase for real-time notifications, the app offers several key features:
 
 1. Speed Limit Monitoring: Utilizes GPS data to track the vehicle's speed and alerts the driver when they exceed the prescribed speed limit for a given area, promoting adherence to traffic regulations.
@@ -12,7 +14,6 @@ The Road Safety App is a comprehensive solution designed to enhance safety on th
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
