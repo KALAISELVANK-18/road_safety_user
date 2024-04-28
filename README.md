@@ -8,7 +8,7 @@ The Road Safety App is a comprehensive solution designed to enhance safety on th
 
 3. Fine and Billing Management: Facilitates the management of fines and billing processes, allowing users to stay informed about any penalties incurred for traffic violations.
 
-4.Dual Dashboards: Provides separate dashboards for users and administrators, offering tailored functionalities for both parties. Users can access features like speed monitoring and emergency alerts, while admins have oversight and management capabilities.
+4. Dual Dashboards: Provides separate dashboards for users and administrators, offering tailored functionalities for both parties. Users can access features like speed monitoring and emergency alerts, while admins have oversight and management capabilities.
 
 ## Getting Started
 
